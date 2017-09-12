@@ -1,0 +1,9 @@
+<resources>
+  <string name="app_name">Playground</string>
+  <string name="termsOfService">Find out about %1$s when using this app and learn %2$s. Tap \'Go!\' to agree to the %3$s and %4$s. %5$s.</string>
+  <string name="safety">safety</string>
+  <string name="whyWeCollectData">why we collect data</string>
+  <string name="serviceTerms">Service Terms</string>
+  <string name="privacyPolicy">Privacy Policy</string>
+  <string name="learnMoreAboutPrivacy">Learn more about Privacy</string>
+</resources>
